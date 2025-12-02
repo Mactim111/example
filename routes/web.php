@@ -22,3 +22,6 @@ Route::get('/1', function () {
 Route::get('/1', function () {
     return view('welcome6', ['users']);
 });
+Route::get('/1', function () {
+    return view('welcome7', ['users']);
+});
