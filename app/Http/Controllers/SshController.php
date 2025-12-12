@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class SshController extends Controller
 {
-    public function Git()
+    public function Git1()
     {
         return '';
     }
