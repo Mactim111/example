@@ -6,7 +6,9 @@ use Illuminate\Http\Request;
 
 class ComController extends Controller
 {
-    public function com2() {
+
+    public function com() {
+
         return '';
     }
 }
